@@ -1,0 +1,32 @@
+project:
+  type: website
+
+website:
+  google-analytics: G-XV9VYHN1MF
+  sidebar:
+    style: docked
+    title: "Stat 230A"
+    logo: assets/stat_bear.png
+    contents:
+      - href: index.qmd
+        text: Home 
+      - href: staff.qmd
+        text: Staff
+      - href: syllabus.qmd
+        text: Syllabus
+      - href: schedule.qmd
+        text: Lecture Schedule
+      - href: license.qmd
+        text: License
+          
+
+format:
+  html:
+    theme: cosmo
+    css: assets/styles.css
+    toc: true
+    include-in-header:
+      file: siteimprove.html
+
+
+

@@ -1,0 +1,15 @@
+---
+title: "Statistics 230a: Linear Models"
+subtitle: "UC Berkeley, Spring 2026"
+listing:
+  - id: buttons
+    template: assets/buttons.ejs
+    contents: buttons.yml
+---
+
+::: {#buttons}
+:::
+
+Lecture: TuTh 3:30-5pm, Stanley 106
+
+This course will cover the XYZ.
