@@ -10,6 +10,4 @@ listing:
 ::: {#buttons}
 :::
 
-Lecture: TuTh 3:30-5pm, Stanley 106
-
-This course will cover the XYZ.
+Lecture: MWF 9:00-10:00am, 101 Weill
