@@ -2,10 +2,7 @@
 title: "Staff"
 ---
 
-Course e-mail: `stat201a-fa24@lists.berkeley.edu` 
-Your e-mail must be sent from a Berkeley e-mail address; otherwise, it will get rejected automatically.
-
-**Please read the Course Policy on e-mail before sending any e-mail.**
+**Please read the Course Policy on e-mail before sending any e-mail to course staff.**
 
 Office hours are subject to change.
 
@@ -14,26 +11,17 @@ Office hours are subject to change.
 ::: {.grid}
 
 ::: {.g-col-4}
-**Instructor:** <a href="https://statistics.berkeley.edu/people/yun-s-song" target='_blank'>Prof. Yun S. Song</a><br>
-`yss (at) berkeley (dot) edu`<br>
+**Instructor:** <a href="https://statistics.berkeley.edu/people/sam-pimentel" target='_blank'>Sam Pimentel</a><br>
+`spii (at) berkeley (dot) edu`<br>
 Office hours: <br>
-- TuTh 5-6pm, 304B Stanley <br>
+- TBD<br>
 :::
 
 ::: {.g-col-4}
-**GSI**: <a href="https://statistics.berkeley.edu/people/gabriel-ramirez-raposo" target="_blank">Gabriel Ramirez Raposo</a><br>
-`raposo (at) berkeley (dot) edu`<br>
+**GSI**: <a href="https://statistics.berkeley.edu/people/xinyi-wang" target="_blank">Xinyi Wang</a><br>
+`wang.xinyi (at) berkeley (dot) edu`<br>
 Office hours:<br>
-- M 4-5pm, 444 Evans<br>
-- Th 12pm-1pm, 444 Evans<br>
-:::
-
-::: {.g-col-4}
-**GSI**: Fanding Zhou<br>
-`zhoufd (at) berkeley (dot) edu`<br>
-Office hours:<br>
-- W 5-6pm, 444 Evans<br>
-- F 1:30-2:30pm, 446 Evans<br>
+- TBD<br>
 :::
 
 :::
