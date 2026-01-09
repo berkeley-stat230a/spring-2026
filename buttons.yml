@@ -1,10 +1,10 @@
 - button: Ed
-  link: https://edstem.org/us/courses/61958
+  link: https://edstem.org/us/courses/92072/
   color: purple
 - button: bCourses
-  link: https://bcourses.berkeley.edu/courses/1537153
+  link: https://bcourses.berkeley.edu/courses/1551758
   color: green
 - button: Gradescope
-  link: https://www.gradescope.com/
+  link: https://www.gradescope.com/courses/1219779
   color: orange
 
