@@ -1,85 +1,74 @@
 ---
-title: "Syllabus"
+title: "STAT 230A: Linear Models"
+subtitle: "Course Syllabus"
+format: 
+  html:
+    toc: true
+    toc-depth: 3
+    toc-location: right
 ---
 
-Jump to:
+*This is an abbreviated working draft of the syllabus and is subject to change. See bCourses for the full syllabus.*
 
-- [About Stat 201A](#about)
-  - [Course Description](#course)
-  - [Textbook](#textbook)
-  - [Prerequisites](#prerequisites)
-- [Course Policies](#course)
-  - [Technology](#technology)
-  - [Grading](#grading)
-  - [Exams](#exams)
-  - [Cheating](#cheating)
-  - [Collaboration](#collaboration)
+## Topics
+The following topics will be covered:
 
-## About Stat 201A
+* Ordinary least squares (OLS)
+* Gauss-Markov theorem
+* Finite-sample exact and asymptotic inference
+* Heteroskedasticity
+* Cluster-robust standard errors
+* Model checking
+* Model selection and shrinkage
+* Generalized linear models
+* Generalized estimating equations
 
-### Course Description
+## Text and Equipment
+* **Text:** *Linear Model and Extensions* by Peng Ding. Available on [Arxiv](https://arxiv.org/pdf/2401.00649).
 
-This course will cover the fundamentals of probability theory at an advance level.  Upon reviewing basic undergraduate probability, we will study various topics, including concentration inequalities, convergence of random variables, generating functions, limit theorems, multivariate random variables, and stochastic processes.
+* **Equipment:** Access to a computer with access to the Internet and R/Python installation will be necessary. If you do not have access to a computer, you can borrow one from the University library (see [Hardware Lending](https://studenttech.berkeley.edu/hardware-lending)).
 
-### Textbook
+## Learning Goals
+By the end of the semester you should be able to:
 
-There is no required textbook for the class.  You may use the following books as general references:
+1. Understand and interpret ordinary least squares regression models from a mathematical perspective.
+2. Adapt the basic regression model to common practical complications including violations of standard assumptions, high-dimensional regimes, and non-continuous outcomes.
+3. Evaluate the quality of a regression analysis in context and suggest improvements.
+4. Use R or Python to fit, report, and clearly communicate the process and results of a regression analysis.
 
-- *An Intermediate Course in Probability, 2nd edition* by Allan Gut
-- *Stochastic Processes: Theory for Applications* by Robert G. Gallager
+## Prerequisites
+* Master’s level probability at the level of STAT 201A.
+* Linear algebra, at the level of the appendix in the course notes.
+* R or Python programming.
 
-### Prerequisites
+## Attendance
+Regular attendance and participation in lecture is an important part of the learning experience in this course. As such, in-person attendance at lectures is expected and lecture recordings will not generally be released. Attendance is also encouraged at lab. Note that **attendance in your assigned lab is required on days when quizzes are given**.
 
-- Undergraduate probability (at the level of Berkeley’s Statistics 134)
-- Multivariable calculus (at the level of Berkeley’s Mathematics 53) 
-- Linear algebra (at the level of Berkeley’s Mathematics 54)
+## Assessment
+### Homework
+We anticipate giving 7 homework assignments during the semester. All homework assignments must be submitted as **a single PDF file** via Gradescope.
 
-## COURSE POLICIES
-
-### Technology
-
-#### Ed Discussion
-
-We will use Ed Discussion as the 'one-stop shop' throughout the semester: for a Q&A forum and for official announcements. Enrollment in Ed Discussion is mandatory. If you have questions about anything related to the course, please post them on Ed Discussion rather than emailing the instructor or TAs. Please do not post anything resembling a solution to a homework problem before it's due. We always welcome any feedback on what we could be doing better. See the Ed Discussion Etiquette section for more on using Ed Discussion. Ed Discussion can be accessed through bCourses.
-
-#### Gradescope
-
-All homework will be submitted through Gradescope, and all homework and exam grades will be returned through Gradescope.
-
-#### Email
-
-Please use Ed Discussion for all technical questions, and also all administrative questions about the course that are not personal to you: other students may also benefit from seeing the answers to these questions. If you have a more specific administrative question that relates to you alone, please either use a private post on Ed Discussion (visible to course staff only) or send email to the course administrative account `stat201a-fa24@lists.berkeley.edu`  (read by the instructor and TA).  Your e-mail must be sent from a Berkeley e-mail address; otherwise, it will get rejected automatically.
-
-### Grading
-
-Grades will be determined according to the following weighting of problem sets and exam scores:
-
-- Homework: 50%
-- Midterm: 20%
-- Final: 30%
-
-NOTE: We will drop the lowest homework score.
-
-### Late Homework Policy
-Your lowest homework score will be dropped, but this drop should be reserved for emergencies. No additional allowances will be made for late or missed homework: please do not contact us about missed homework or late submissions.
+### Quizzes
+We will give 4 in-person quizzes in lab during the semester on Feb 9, Feb 23, April 13, and April 27. These will test concepts from the homework due the week before.
 
 ### Exams
+An in-person cumulative midterm exam will be given from 7:00 PM to 9:00 PM on Thursday March 12th, and an in-person cumulative final exam will be given from XXX to XXX on XXXX.
 
-Midterm is on Thursday, October 17, in class.  The Final is on Friday, December 20, 2024, 7-10pm. We are unable to accommodate exam conflicts; we strongly discourage enrollment in another class with conflicting lectures and/or final exam; if you choose to enroll in such a class you will have to make arrangements for an alternate Final with the other class.  
+### Final Project
+Students will work in groups of one or two to carry out the final project. A written project proposal is due in April and the final report is due during finals week.
 
-### Cheating
+## Overall Score
+Your letter grade will be based on the following weights:
 
-We have a zero-tolerance policy for cheating. Consequences of cheating include: negative points for the corresponding assignment, a failing grade in the class, and/or a referral to the Office of Student Conduct.
+* Homework: 14%
+* Quizzes (dropping lowest score): 18%
+* Midterm: 15%
+* Final: 30%
+* Group project: 23%
 
-### Collaboration
+## Policies
+### Late Assignments
+All students will have 5 late days that they may use for homework. Late days cannot be used for the group project.
 
-You are welcome to work on homework problems in study groups of two to four people; however, you must always write up the solutions on your own. Similarly, you may use books or online resources to help solve homework problems, but you must always credit all such sources in your writeup and you must never copy material verbatim.
-
-We believe that most students can distinguish between helping other students and cheating. Explaining the meaning of a question, discussing a way of approaching a solution, or collaboratively exploring how to solve a problem within your group are types of interaction that we strongly encourage. But you should write your homework solution strictly by yourself so that your hands and eyes can help you internalize this material. At no time should you be in possession of another student's solution. You may discuss approaches but your solution must be written by you and you only. You should acknowledge everyone whom you have worked with or who has given you any significant ideas about the homework. Not only is this good scholarly conduct, it also protects you from accusations of being a "free-rider" regarding your colleagues' ideas.
-
-Warning: Your attention is drawn to Berkeley Honor Code: 
-
-> “As a member of the UC Berkeley community, I act with honesty, integrity, and respect for others.”
-
-In particular, you should be aware that copying or sharing solutions, in whole or in part, from other students in the class (or any other source without acknowledgment) constitutes cheating.  Any student found to be cheating risks automatically failing the class and being referred to the Office of Student Conduct.
-
+### Academic Honesty and AI Policy
+Homework must be done independently. This course allows limited use of generative AI tools (GenAI) on homework assignments and projects. If you use GenAI, you should include a statement acknowledging your use.
