@@ -1,5 +1,45 @@
 [
   {
+    "objectID": "schedule.html",
+    "href": "schedule.html",
+    "title": "Anticipated Course Schedule",
+    "section": "",
+    "text": "Week\nTopics\nAssignments & Exams\nAssigned Reading\n\n\n\n\nJan 19\n(MLK Day) Motivation, linear algebra review\n\nCh. 1, Appendix A-B\n\n\nJan 26\nDistribution theory review, multiple regression\n\nCh. 2-3, Appendix C\n\n\nFeb 2\nGauss-Markov, normal linear model\nHW#1 due Monday\nCh. 4-5\n\n\nFeb 9\nAsymptotic inference, Frisch-Waugh-Lovell\nQuiz #1 Monday\nCh. 6-8\n\n\nFeb 16\n(President’s Day) Cochran’s Theorem, \\(R^2\\)\nHW#2 due Monday\nCh. 9-10\n\n\nFeb 23\nLeverage, population least squares\nQuiz #2 Monday\nCh. 11-12\n\n\nMar 2\nOverfitting, model selection\nHW#3 due Monday\nCh. 13\n\n\nMar 9\nRidge regression, Midterm review\nMidterm (Thursday)\nCh. 14\n\n\nMar 16\nLASSO, transformations, interaction\nHW#4 due Friday\nCh. 15-17\n\n\nMar 23\nSpring Break\n\n\n\n\nMar 30\nWeighted/restricted OLS, logistic regression\n\nCh. 18-20\n\n\nApr 6\nCategorical and count outcomes\nHW#5 due Monday, Project Proposal due Friday\nCh. 21-22, Appendix D\n\n\nApr 13\nGeneralized linear models\nQuiz #3 Monday\nCh. 23-24\n\n\nApr 20\nGeneralized estimating equations, Quantile regression\nHW#6 due Monday\nCh. 25-26\n\n\nApr 27\nSurvival outcomes, Guest speakers\nQuiz #4 Monday, HW#7 due Friday\nCh. 27\n\n\nMay 4\nRRR Week\n\n\n\n\nMay 12\nFinals Week\nFinal Project due Wednesday\n\n\n\n\n\n\n\n\n\n\nTipNote on Readings\n\n\n\nAll assigned readings refer to the provided lecture notes unless otherwise specified.",
+    "crumbs": [
+      "Lecture Schedule"
+    ]
+  },
+  {
+    "objectID": "staff.html",
+    "href": "staff.html",
+    "title": "Staff",
+    "section": "",
+    "text": "Please read the Course Policy on e-mail before sending any e-mail to course staff.\nOffice hours are subject to change.\n\n\n\nInstructor: Sam Pimentel spii (at) berkeley (dot) edu Office hours:  - TBD\n\n\nGSI: Xinyi Wang wang.xinyi (at) berkeley (dot) edu Office hours: - TBD",
+    "crumbs": [
+      "Staff"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Statistics 230a: Linear Models",
+    "section": "",
+    "text": "Ed\n\n  bCourses\n\n  Gradescope\n\nNo matching items\n\nLecture: MWF 9:00-10:00am, 101 Weill",
+    "crumbs": [
+      "Home"
+    ]
+  },
+  {
+    "objectID": "license.html",
+    "href": "license.html",
+    "title": "License",
+    "section": "",
+    "text": "This work is licensed under a Creative Commons Attribution 4.0 International License.",
+    "crumbs": [
+      "License"
+    ]
+  },
+  {
     "objectID": "syllabus.html",
     "href": "syllabus.html",
     "title": "STAT 230A: Linear Models",
@@ -64,7 +104,7 @@
     "href": "syllabus.html#assessment",
     "title": "STAT 230A: Linear Models",
     "section": "Assessment",
-    "text": "Assessment\n\nHomework\nWe anticipate giving 7 homework assignments during the semester. All homework assignments must be submitted as a single PDF file via Gradescope.\n\n\nQuizzes\nWe will give 4 in-person quizzes in lab during the semester on Feb 9, Feb 23, April 13, and April 27. These will test concepts from the homework due the week before.\n\n\nExams\nAn in-person cumulative midterm exam will be given from 7:00 PM to 9:00 PM on Thursday March 12th, and an in-person cumulative final exam will be given from XXX to XXX on XXXX.\n\n\nFinal Project\nStudents will work in groups of one or two to carry out the final project. A written project proposal is due in April and the final report is due during finals week.",
+    "text": "Assessment\n\nHomework\nWe anticipate giving 7 homework assignments during the semester. All homework assignments must be submitted as a single PDF file via Gradescope.\n\n\nQuizzes\nWe will give 4 in-person quizzes in lab during the semester on Feb 9, Feb 23, April 13, and April 27. These will test concepts from the homework due the week before.\n\n\nExams\nAn in-person cumulative midterm exam will be given from 7:00 to 9:00 PM on Thursday March 12th, and an in-person cumulative final exam will be given from 7:00 to 10:00 PM on Monday May 11th. Please confirm now that you are available to attend both exams in person!\n\n\nFinal Project\nStudents will work in groups of one or two to carry out the final project. A written project proposal is due in April and the final report is due during finals week.",
     "crumbs": [
       "Syllabus"
     ]
@@ -87,46 +127,6 @@
     "text": "Policies\n\nLate Assignments\nAll students will have 5 late days that they may use for homework. Late days cannot be used for the group project.\n\n\nAcademic Honesty and AI Policy\nHomework must be done independently. This course allows limited use of generative AI tools (GenAI) on homework assignments and projects. If you use GenAI, you should include a statement acknowledging your use.",
     "crumbs": [
       "Syllabus"
-    ]
-  },
-  {
-    "objectID": "license.html",
-    "href": "license.html",
-    "title": "License",
-    "section": "",
-    "text": "This work is licensed under a Creative Commons Attribution 4.0 International License.",
-    "crumbs": [
-      "License"
-    ]
-  },
-  {
-    "objectID": "schedule.html",
-    "href": "schedule.html",
-    "title": "Anticipated Course Schedule",
-    "section": "",
-    "text": "Week\nTopics\nAssignments & Exams\nAssigned Reading\n\n\n\n\nJan 19\n(MLK Day) Motivation, linear algebra review\n\nCh. 1, Appendix A-B\n\n\nJan 26\nDistribution theory review, multiple regression\n\nCh. 2-3, Appendix C\n\n\nFeb 2\nGauss-Markov, normal linear model\nHW#1 due Monday\nCh. 4-5\n\n\nFeb 9\nAsymptotic inference, Frisch-Waugh-Lovell\nQuiz #1 Monday\nCh. 6-8\n\n\nFeb 16\n(President’s Day) Cochran’s Theorem, \\(R^2\\)\nHW#2 due Monday\nCh. 9-10\n\n\nFeb 23\nLeverage, population least squares\nQuiz #2 Monday\nCh. 11-12\n\n\nMar 2\nOverfitting, model selection\nHW#3 due Monday\nCh. 13\n\n\nMar 9\nRidge regression, Midterm review\nMidterm (Thursday)\nCh. 14\n\n\nMar 16\nLASSO, transformations, interaction\nHW#4 due Friday\nCh. 15-17\n\n\nMar 23\nSpring Break\n\n\n\n\nMar 30\nWeighted/restricted OLS, logistic regression\n\nCh. 18-20\n\n\nApr 6\nCategorical and count outcomes\nHW#5 due Monday, Project Proposal due Friday\nCh. 21-22, Appendix D\n\n\nApr 13\nGeneralized linear models\nQuiz #3 Monday\nCh. 23-24\n\n\nApr 20\nGeneralized estimating equations, Quantile regression\nHW#6 due Monday\nCh. 25-26\n\n\nApr 27\nSurvival outcomes, Guest speakers\nQuiz #4 Monday, HW#7 due Friday\nCh. 27\n\n\nMay 4\nRRR Week\n\n\n\n\nMay 12\nFinals Week\nFinal Project due Wednesday\n\n\n\n\n\n\n\n\n\n\nNote on Readings\n\n\n\nAll assigned readings refer to the provided lecture notes unless otherwise specified.",
-    "crumbs": [
-      "Lecture Schedule"
-    ]
-  },
-  {
-    "objectID": "staff.html",
-    "href": "staff.html",
-    "title": "Staff",
-    "section": "",
-    "text": "Please read the Course Policy on e-mail before sending any e-mail to course staff.\nOffice hours are subject to change.\n\n\n\nInstructor: Sam Pimentel spii (at) berkeley (dot) edu Office hours:  - TBD\n\n\nGSI: Xinyi Wang wang.xinyi (at) berkeley (dot) edu Office hours: - TBD",
-    "crumbs": [
-      "Staff"
-    ]
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Statistics 230a: Linear Models",
-    "section": "",
-    "text": "Ed\n\n  bCourses\n\n  Gradescope\n\nNo matching items\n\nLecture: MWF 9:00-10:00am, 101 Weill",
-    "crumbs": [
-      "Home"
     ]
   }
 ]
