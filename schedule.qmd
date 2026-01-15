@@ -20,7 +20,7 @@ tbl-colwidths: [10, 90]
 | **Apr 20** | Generalized estimating equations, Quantile regression | **HW#6** due Monday | Ch. 25-26 |
 | **Apr 27** | Survival outcomes, Guest speakers | **Quiz #4** Monday, **HW#7** due Friday | Ch. 27 |
 | **May 4** | *RRR Week* | | |
-| **May 12** | *Finals Week* | **Final Project** due Wednesday | |
+| **May 12** | *Finals Week* | **Final Exam** (Monday), **Final Project** due Wednesday | |
 
 ::: {.callout-tip}
 ## Note on Readings
