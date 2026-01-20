@@ -10,7 +10,7 @@ Office hours are subject to change.
 
 ::: {.grid}
 
-::: {.g-col-4}
+::: {.g-col-6}
 **Instructor:** <a href="https://statistics.berkeley.edu/people/sam-pimentel" target='_blank'>Sam Pimentel</a><br>
 `spi (at) berkeley (dot) edu`<br>
 Office hours: <br>
@@ -18,7 +18,7 @@ Office hours: <br>
 - Fri 10:30-11:30am, 429 Evans<br>
 :::
 
-::: {.g-col-4}
+::: {.g-col-6}
 **GSI**: <a href="https://statistics.berkeley.edu/people/xinyi-wang" target="_blank">Xinyi Wang</a><br>
 `wang.xinyi (at) berkeley (dot) edu`<br>
 Office hours:<br>
