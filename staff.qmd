@@ -12,7 +12,7 @@ Office hours are subject to change.
 
 ::: {.g-col-4}
 **Instructor:** <a href="https://statistics.berkeley.edu/people/sam-pimentel" target='_blank'>Sam Pimentel</a><br>
-`spii (at) berkeley (dot) edu`<br>
+`spi (at) berkeley (dot) edu`<br>
 Office hours: <br>
 - Wed 3:00-4:00pm, 429 Evans<br>
 - Fri 10:30-11:30am, 429 Evans<br>
